@@ -1,4 +1,4 @@
-# Sentiment Analysis Using Transformers
+# TechDome Sentiment Analysis 
 
 ### Sentiment Analysis using DistilBERT
  
