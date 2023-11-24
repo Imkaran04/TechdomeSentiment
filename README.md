@@ -1,4 +1,6 @@
-## Sentiment Analysis using DistilBERT
+# Sentiment Analysis Using Transformers
+
+### Sentiment Analysis using DistilBERT
  
 This repository contains the code and resources used for sentiment analysis using the DistilBERT model.
 
